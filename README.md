@@ -9,3 +9,8 @@ docker exec -ti db2 bash -c "su - ${DB2INSTANCE}"
 [Db2 Tutorial](https://www.db2tutorial.com/)
 
 [IBM DB2 Tutorial](https://www.ibmmainframer.com/db2-tutorial/)
+
+## login
+
+db2inst1
+password
